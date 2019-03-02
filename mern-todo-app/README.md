@@ -1,3 +1,5 @@
+The application is a simple To-Do application. By using this example it's possible to demonstrate how to build a CRUD (Create, Read, Update, and Delete) application from scratch by using the MERN stack!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
